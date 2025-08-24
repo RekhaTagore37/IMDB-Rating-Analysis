@@ -56,9 +56,7 @@ Telugu Movies Dashboard Preview (https://github.com/RekhaTagore37/IMDB-Rating-An
 ---
 
 ## ▶ How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/RekhaTagore37/IMDB-Rating-Analysis.git
+1. Clone the repository: git clone https://github.com/RekhaTagore37/IMDB-Rating-Analysis.git
 
 2. Open IMDB_Analysis_Dashboard.xlsx in Microsoft Excel 2016+.
 
