@@ -42,7 +42,8 @@ IMDB-Analysis/ ├── IMDB-English-Dataset.csv       # Dataset for English mo
 ---
 
 ## 📷 Dashboard Preview
-Dashboard Preview (images/dashboard.png)  
+English movies Dashboard Preview (https://github.com/RekhaTagore37/IMDB-Rating-Analysis/blob/main/DASHBOARD_English_Movies.png) 
+Telugu Movies Dashboard Preview (https://github.com/RekhaTagore37/IMDB-Rating-Analysis/blob/main/DASHBOARD_Telugu_Movies.png)
 
 
 ---
