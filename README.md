@@ -4,99 +4,65 @@ IMDB Movie Ratings Analysis
 
 IMDB Movie Ratings Analysis
 
-📌 Project Overview
+## 📌 Project Overview
+This project analyzes IMDB movie ratings using *Microsoft Excel. It explores trends and insights from **English* and *Telugu* movie datasets using pivot tables, charts, and formulas.
 
-This project focuses on analyzing IMDB movie ratings using Microsoft Excel. It explores trends and insights from two datasets:
+---
 
-English Movies
+## 🎯 Objectives
+- Compare rating patterns across regions (English vs Telugu movies)  
+- Identify popular genres and their impact on ratings  
+- Highlight top-rated movies in each dataset  
 
-Telugu Movies
+---
 
+## 📂 Project Structure
 
-The analysis was performed using pivot tables, charts, and Excel formulas to visualize and interpret the data effectively.
+IMDB-Analysis/ ├── IMDB-English-Dataset.csv       # Dataset for English movies ├── IMDB-Telugu-Dataset.csv        # Dataset for Telugu movies ├── IMDB_Analysis_Dashboard.xlsx   # Final Excel dashboard ├── images/ │   └── dashboard.png              # Screenshot of the Excel dashboard └── README.md                      # Project documentation
+
+---
+
+## 🛠 Tools & Techniques
+- Microsoft Excel  
+  - Pivot Tables  
+  - Charts (Bar, Pie, Line)  
+  - Conditional Formatting  
+  - Excel Formulas (AVERAGE, COUNT, etc.)
+
+---
+
+## 📑 Dataset Details
+- *IMDB-English-Dataset.csv*  
+  - Columns: Movie Name, Genre, Rating, Votes, Year  
+  - Records: 500+  
+- *IMDB-Telugu-Dataset.csv*  
+  - Columns: Movie Name, Genre, Rating, Votes, Year  
+  - Records: 500+  
+
+---
+
+## 📷 Dashboard Preview
+Dashboard Preview (images/dashboard.png)  
 
 
 ---
 
-🎯 Objectives
-
-Understand rating patterns across different regions (English vs Telugu movies)
-
-Identify popular genres and their impact on ratings
-
-Compare average ratings between the two datasets
-
-
+## 🔍 Key Insights
+✔ English movies have a slightly *higher average rating* than Telugu movies  
+✔ *Action & Sci-Fi genres dominate* English movies  
+✔ Telugu movies perform well in *Family & Drama genres*
 
 ---
 
-📂 Project Structure
-
-IMDB-Analysis/
-├── IMDB-English-Dataset.csv       # Dataset for English movies
-├── IMDB-Telugu-Dataset.csv        # Dataset for Telugu movies
-├── IMDB_Analysis_Dashboard.xlsx   # Final Excel dashboard
-└── README.md                      # Project documentation
-
-
----
-
-🛠 Tools & Techniques
-
-Microsoft Excel
-
-Pivot Tables
-
-Charts (Bar, Pie, Line)
-
-Conditional Formatting
-
-Excel Formulas (AVERAGE, COUNT, etc.)
-
-
-
-
----
-
-🔍 Key Insights
-
-English movies have a slightly higher average rating compared to Telugu movies.
-
-Action and Sci-Fi genres dominate in popularity among English movies.
-
-Telugu movies tend to have strong performance in family and drama genres.
-
-
-
----
-
-📊 Dashboard Highlights
-
-The Excel dashboard includes:
-
-Genre-wise average ratings
-
-Regional rating comparison (English vs Telugu)
-
-Top-rated movies by genre
-
-Distribution of ratings
-
-
-
----
-
-📥 How to Use
-
-1. Download the repository:
-
+## ▶ How to Use
+1. Clone the repository:
+```bash
 git clone https://github.com/RekhaTagore37/IMDB-Rating-Analysis.git
 
+2. Open IMDB_Analysis_Dashboard.xlsx in Microsoft Excel 2016+.
 
-2. Open IMDB_Analysis_Dashboard.xlsx in Microsoft Excel.
 
-
-3. Explore the interactive pivot tables and charts.
+3. Explore pivot tables, charts, and slicers for insights.
 
 
 
@@ -105,11 +71,31 @@ git clone https://github.com/RekhaTagore37/IMDB-Rating-Analysis.git
 
 ✅ Future Enhancements
 
-Add more regional datasets for comparison.
+Include additional regional datasets for comparison
 
-Perform time-based trend analysis (year-wise ratings).
+Perform time-based trend analysis (year-wise ratings)
 
-Automate dashboard updates using Power Query or Python.
+Automate dashboard updates with Power Query or Python
+
+
+
+---
+
+👤 Author
+
+Rekha Tagore – Data Analyst & Excel Enthusiast
+
+Developed this project to analyze IMDB movie rating using Excel,uncovering trends and insights across English and Telugu movies
+
+---
+
+📬 Contact
+
+GitHub: RekhaTagore37
+
+LinkedIn: www.linkedin.com/in/rekha-tagore-1ba989301
+
+Email: rekhatagore13@gmail.com
 
 
 
@@ -118,7 +104,3 @@ Automate dashboard updates using Power Query or Python.
 📄 License
 
 This project is licensed under the MIT License.
-Feel free to use and modify for educational or analytical purposes.
-
-
----
