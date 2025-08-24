@@ -90,7 +90,7 @@ Distribution of ratings
 
 1. Download the repository:
 
-git clone https://github.com/RekhaTagore37/IMDB-Analysis.git
+git clone https://github.com/RekhaTagore37/IMDB-Rating-Analysis.git
 
 
 2. Open IMDB_Analysis_Dashboard.xlsx in Microsoft Excel.
